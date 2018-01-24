@@ -34,8 +34,4 @@ and then you can trace your OS's latency with mklatencyplot.bash script and see 
 $ ./mklatencyplot.bash
 Hope this helps.
 
-I'm currently porting my BitThunder project to the Pi, which is a OS based on FreeRTOS but with a comprehensive driver model, and file-systems etc.
 
-http://github.com/jameswalmsley/bitthunder/
-
-James
